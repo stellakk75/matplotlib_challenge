@@ -1,7 +1,7 @@
 # Matplotlib_challenge
 
 
-**This file uses Matplotlib and Pandas to perform an analysis of Pymaceutical's anti-cancer experiment- an animal study experiment using various anti-cancer drug regimens designed as potential treatments of Squamous Cell Carcinoma. Selected drug regimens' performance and effectiveness are evaluated over a 45 day course and represented within tables and figures in the study report.**
+**This file uses Matplotlib and Pandas to perform an analysis of Pymaceutical's anti-cancer animal study- an experimental mice study using various anti-cancer drug regimens designed as potential treatments of Squamous Cell Carcinoma. Selected drug regimens' performance and effectiveness are evaluated over a 45 day course and represented within tables and figures in the study report.**
 
 
 * Script includes
