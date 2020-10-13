@@ -1,7 +1,7 @@
 # Matplotlib_challenge
 
 
-**This file uses Matplotlib and Pandas to perform an analysis of an animal studies experiment on various drug regimens designed as potential treatments of Squamous Cell Carcinoma. Selected drug regimens' performance and effectiveness are evaluated and represented within tables, charts and figures in the study report. 
+**This file uses Matplotlib and Pandas to perform an analysis of an animal studies experiment on various drug regimens designed as potential treatments of Squamous Cell Carcinoma. Selected drug regimens' performance and effectiveness are evaluated and represented within tables, charts and figures in the study report.**
 
 
 * Script includes
